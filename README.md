@@ -4,7 +4,7 @@ Welcome to a silly full-time full-stack developer README ;p
 
 ---
 
-### My Handy Frameworks, Languagues, and Tools 💻:
+### My Handy Frameworks, Languages, and Tools 💻:
 
 
 <div align="center">
