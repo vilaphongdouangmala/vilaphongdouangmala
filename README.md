@@ -1,6 +1,6 @@
 ## Vilaphong Douangmala (Liang) 👋
 
-Welcome to a silly full-time full-stack developer README ;p
+Welcome to the README of a full-time full-stack developer with 4.0 GPAX business degree 😸
 
 ---
 
