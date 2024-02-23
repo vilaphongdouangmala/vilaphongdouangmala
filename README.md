@@ -19,7 +19,7 @@ Welcome to the README of a full-time full-stack developer with 4.0 GPAX business
   <img alt="JAVASCRIPT" style="width: 140px; height: 29px" src="https://img.shields.io/badge/JAVASCRIPT-red?style=flat-square&logo=javascript&logoColor=white&labelColor=%23f1db4f&color=%23f1db4f">
   <img alt="PYTHON" style="width: 110px; height: 29px" src="https://img.shields.io/badge/PYTHON-red?style=flat-square&logo=python&logoColor=white&labelColor=%23346d98&color=%23346d98">
   <img alt="DART" style="width: 90px; height: 29px" src="https://img.shields.io/badge/DART-red?style=flat-square&logo=dart&logoColor=white&labelColor=%23346d98&color=%23346d98">
-  <img alt="C%23" style="width: 70px; height: 29px" src="https://img.shields.io/badge/C%23-red?style=flat-square&logo=c%23&logoColor=white&labelColor=%2369207a&color=%2369207a">
+  <img alt="C%23" style="width: 75px; height: 29px" src="https://img.shields.io/badge/C%23-red?style=flat-square&logo=c%23&logoColor=white&labelColor=%2369207a&color=%2369207a">
   <img alt="HTML" style="width: 90px; height: 29px" src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=html5&logoColor=white&labelColor=%23fd4a0a&color=%23fd4a0a">
   <img alt="CSS" style="width: 70px; height: 29px" src="https://img.shields.io/badge/CSS-red?style=flat-square&logo=css3&logoColor=white&labelColor=%231b7ebf&color=%231b7ebf">
 </div>
