@@ -28,6 +28,7 @@ Welcome to the README of a full-time full-stack developer with 4.0 GPAX business
   <img alt="docker" style="width: 120px; height: 29px" src="https://img.shields.io/badge/DOCKER-red?style=flat-square&logo=docker&logoColor=white&labelColor=%230b83c6&color=%230b83c6">
   <img alt="Postgres" style="width: 125px; height: 29px" src="https://img.shields.io/badge/POSTGRES-red?style=flat-square&logo=postgresql&logoColor=white&labelColor=%23336791&color=%23336791">
   <img alt="MySQL" style="width: 120px; height: 29px" src="https://img.shields.io/badge/MYSQL-red?style=flat-square&logo=mysql&logoColor=white&labelColor=%23044464&color=%23044464">
+  <img alt="GitLab" style="width: 140px; height: 29px" src="https://img.shields.io/badge/GitLab%20CICD-white?style=flat-square&logo=gitlab&logoColor=white&color=%23e04329">
 </div>
 <div align="center">
   <img alt="VS CODE" style="width: 115px; height: 29px" src="https://img.shields.io/badge/VS%20CODE-red?style=flat-square&logo=visual%20studio%20code&logoColor=white&labelColor=%2339a6f2&color=%2339a6f2">
