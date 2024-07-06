@@ -1,6 +1,7 @@
-## Vilaphong Douangmala (Liang) 👋
+## Vilaphong Douangmala (Liang)
 
-Welcome to the README of a full-time full-stack developer with 4.0 GPAX business degree 😸
+Welcome to the README of a full-time full-stack developer with 4.0 GPAX business degree
+Being a no-lifer, I am
 
 ---
 
@@ -39,3 +40,4 @@ Welcome to the README of a full-time full-stack developer with 4.0 GPAX business
 
 ### Reach out to me:
 <p>✉️: vilaphong.dml@gmail.com</p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/vilaphong-douangmala/" >Vilaphong Douangmala</a></p>
