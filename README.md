@@ -2,8 +2,6 @@
 
 Welcome to the README of a full-time full-stack developer with 4.0 GPAX business degree
 
-Being a no-lifer, I am
-
 ---
 
 ### My Handy Frameworks, Languages, and Tools 💻:
