@@ -47,8 +47,8 @@ Welcome to the README of a full-time full-stack developer with 4.0 GPAX business
 ---
 <picture>
   <source
-    srcset="https://github-readme-stats-mu-plum-80.vercel.app/api?username=vilaphongdouangmala&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true&show=prs_merged&hide=stars,contribs"
+    srcset="https://github-readme-stats-mu-plum-80.vercel.app/api?username=vilaphongdouangmala&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true&show=prs_merged&hide=stars"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats-mu-plum-80.vercel.app/api?username==vilaphongdouangmala&show_icons=true&include_all_commits=true&hide_rank=true&show=prs_merged&hide=stars,contribs" />
+  <img src="https://github-readme-stats-mu-plum-80.vercel.app/api?username==vilaphongdouangmala&show_icons=true&include_all_commits=true&hide_rank=true&show=prs_merged&hide=stars" />
 </picture>
