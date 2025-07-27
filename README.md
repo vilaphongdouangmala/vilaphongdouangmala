@@ -43,6 +43,7 @@ Welcome to the README of a full-time full-stack developer with 4.0 GPAX business
 <p>Medium: <a href="https://medium.com/@vilaphong.dml/" >Vilaphong Douangmala</a></p>
 
 ---
+
 <picture>
   <source
     srcset="https://github-readme-stats-mu-plum-80.vercel.app/api?username=vilaphongdouangmala&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true&show=prs_merged&hide=stars"
