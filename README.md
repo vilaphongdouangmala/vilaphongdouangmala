@@ -10,7 +10,7 @@ Welcome to the README of a full-time full-stack developer with 4.0 GPAX business
 <br/>
 [![My Languages](https://skillicons.dev/icons?i=ts,python,dart,cs,tailwind)](https://skillicons.dev)
 <br/>
-[![My DevOps](https://skillicons.dev/icons?i=docker,postgres,redis,nginx,bun,aws,cloudflare,gitlab)](https://skillicons.dev)
+[![My DevOps](https://skillicons.dev/icons?i=docker,sentry,postgres,redis,nginx,bun,pytorch,aws,cloudflare,gitlab)](https://skillicons.dev)
 ---
 
 ### Reach out to me:
