@@ -6,10 +6,11 @@ Welcome to the README of a full-time full-stack developer with 4.0 GPAX business
 
 ### My Handy Frameworks, Languages, and Tools 💻:
 
-[![My Frameworks](https://skillicons.dev/icons?i=nestjs,django,nextjs,angular,flutter)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=nodejs,nestjs,django,nextjs,angular,flutter)](https://skillicons.dev)
 <br/>
-[![My Languages](https://skillicons.dev/icons?i=ts,js,python,dart,html,css,tailwind)](https://skillicons.dev)
-
+[![My Languages](https://skillicons.dev/icons?i=ts,python,dart,cs,tailwind)](https://skillicons.dev)
+<br/>
+[![My DevOps](https://skillicons.dev/icons?i=docker,postgres,redis,nginx,bun,aws,cloudflare,gitlab)](https://skillicons.dev)
 ---
 
 ### Reach out to me:
